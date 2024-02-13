@@ -10,11 +10,12 @@ main[b-6n4n4l3v9d] {
 }
 
 .sidebar[b-6n4n4l3v9d] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    /*background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);*/
+    background-color: #1F1A24;
 }
 
 .top-row[b-6n4n4l3v9d] {
-    background-color: #f7f7f7;
+    background-color: #121212;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;

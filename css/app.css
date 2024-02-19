@@ -107,3 +107,6 @@ code {
 .homecard:hover {
     transform: scale(1.1);
 }
+.small-alert {
+    width: 350px !important;
+}

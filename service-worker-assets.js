@@ -33,15 +33,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-laU+ts7Gq+6SSsHOMCn3YCl8\/CA7K\/TIhZXbL0Z0Wj0=",
+      "hash": "sha256-d6NzOICcv0i2\/+qcMI5aXnj3fSjvHeptUeCIP5JDDlY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-FH2Qq1tZ5w5cA8ZReH0\/rL2GxaIjA5uDOA6g4+RcHmY=",
+      "hash": "sha256-zozQ7Jqv2P95TxBuJyBSsGxq0K6+EVIpjhQ5fBMVQ5c=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-mmo6S4AxiBcnKbs4b+7ObftqPCkIcLGiAv9gICT\/5NY=",
+      "hash": "sha256-olmEc6Jd\/rrjiwKzVXxfFp\/UTv0lpKopGj8ne4xZlsc=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-Zmtu\/3W7kvucvugbcMNjVxNBwbp1n2mUjsQw1Z1FZgQ=",
+      "hash": "sha256-GHbW1BICMhMCueaGglxdE3q\/RdFPocHT55W5qvHfi0Q=",
       "url": "_framework\/MyFrame.wasm"
     },
     {
@@ -117,7 +117,7 @@
       "url": "_framework\/System.Diagnostics.DiagnosticSource.wasm"
     },
     {
-      "hash": "sha256-q\/IiSaUhlnpR4CAYp0+JU\/cX8aCp9AORRpGbKDtsOBE=",
+      "hash": "sha256-BTgRlUu+\/\/JRrmLddG\/XjORtNHtY7rBJESf26gergS8=",
       "url": "_framework\/System.Linq.wasm"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-11bHmF1ADik0yW+0+M29MB\/aiRN6+gixGtyEqrOy1ps=",
+      "hash": "sha256-JVCRJDKEIWW3h7TAOEN6ym8KsSm\/bK9YQxlbIa9VAt4=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -145,7 +145,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-PEBRizJfq4N0kdZoJQRlt+i2NE7mffZmIeVVsHYQLrA=",
+      "hash": "sha256-Yvosmuqle6Din9XK8I72BKKv1wM7XvsX6Iaygeon11E=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -165,7 +165,7 @@
       "url": "MyFrame.styles.css"
     },
     {
-      "hash": "sha256-fsXD9qPlwVFGigplRiZzXnyh0TpkxxPkWFwHRXFotIs=",
+      "hash": "sha256-4tSum2hfD0DDC9kxuIJpwU0vlYf9TokbzkcvV7e3m+U=",
       "url": "css\/app.css"
     },
     {
@@ -369,5 +369,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "bPLULSdj"
+  "version": "NNfJmTBP"
 };
